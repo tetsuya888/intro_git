@@ -11,3 +11,6 @@ git commit
 
 ■ ステージングエリアからファイルを削除
 git rm
+
+■ リポジトリの状態を知る
+git status
