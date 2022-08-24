@@ -14,3 +14,14 @@ git rm
 
 ■ リポジトリの状態を知る
 git status
+
+■ ログを見れるよ
+git log --oneline
+git log -n 3
+git log -p
+
+■ ファイルとステージとの差分
+git diff
+
+■ ステージとコミットの差分
+git diff HEAD
